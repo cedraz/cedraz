@@ -1,6 +1,8 @@
 ## Olá, eu sou Ícaro Cedraz 👋
 
-- :computer: Atualmente aprendo sobre front-end
+- 👨‍🎓 Graduando em Engenharia da Computação na UFBA
+- 🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/TITAN-FFD400.svg?style=for-the-badge&logo=TITAN&logoColor=black" />](https://titanci.com.br)
+- :computer: Atualmente aprendo sobre front-end e back-end
 - :open_book: Estudando Javascript
 - :envelope_with_arrow: Email: icarocedraz7@gmail.com ou icaro.cedraz@ufba.br
 
