@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/cedraz">
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cedraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cedraz&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cedraz&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Icaro Cedraz Github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedraz&layout=compact&hide_border=true&title_color=ff6e96&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,10 +22,9 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cedraz&bg_color=282a36&color=ffffff&line=dd6387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div> 
   <a href = "mailto:icarocedraz7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/icaro-cedraz-63a389251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cedraz&bg_color=282a36&color=ffffff&line=dd6387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
