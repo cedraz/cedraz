@@ -20,11 +20,11 @@
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-
 <div> 
   <a href = "mailto:icarocedraz7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/icaro-cedraz-63a389251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cedraz&bg_color=282a36&color=ffffff&line=dd6387&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
