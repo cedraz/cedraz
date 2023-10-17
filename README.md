@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Graduando em Engenharia da Computação na UFBA
 - 🤝 Trainee de Dev -  TITAN - Empresa Júnior de Engenharia da Computação [<img src="https://img.shields.io/badge/TITAN-FFD400.svg?style=for-the-badge&logo=TITAN&logoColor=black" />](https://titanci.com.br)
-- :computer: Estudando nextjs e material-ui
+- :computer: Estudando Typescript e Node.js
 - :envelope_with_arrow: Email: icarocedraz7@gmail.com ou icaro.cedraz@ufba.br
 - 🔗 Meu site: https://portifolio-cedraz.vercel.app/
 
