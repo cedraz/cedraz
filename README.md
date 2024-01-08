@@ -11,7 +11,7 @@
 
 ## Frameworks e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,docker,nodejs,postgres,prisma,postman,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,docker,nodejs,nestjs,express,postgres,prisma,postman,vscode,git)](https://skillicons.dev)
 
 ## Estudando sobre:
 
