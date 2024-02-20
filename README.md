@@ -3,7 +3,6 @@
 - 👨‍🎓 Graduando em Engenharia da Computação na UFBA
 - 💻 Desenvolvedor Full Stack
 - :envelope_with_arrow: Email: icarocedraz7@gmail.com ou icaro.cedraz@ufba.br
-- 🔗 Meu site: https://portifolio-cedraz.vercel.app/
 
 ## Linguagens que utilizo:
 
