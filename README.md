@@ -1,7 +1,7 @@
 ## Olá, eu sou Ícaro Cedraz 👋
 
-- 👨‍🎓 Graduando em Engenharia da Computação na UFBA
 - 💻 Desenvolvedor Full Stack
+- 👨‍🎓 Graduando em Engenharia da Computação na UFBA
 - :envelope_with_arrow: Email: icarocedraz7@gmail.com ou icaro.cedraz@ufba.br
 
 ## Linguagens que utilizo:
