@@ -5,6 +5,14 @@
 - :envelope_with_arrow: Email: icarocedraz7@gmail.com ou icaro.cedraz@ufba.br
 - 🔗 Confira o meu portfólio: https://cedraz.vercel.app/en
 
+![svg](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+  <a href="https://github.com/cedraz">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cedraz&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Icaro Cedraz Github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedraz&layout=compact&hide_border=true&title_color=ff6e96&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 ## Linguagens que utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
@@ -26,16 +34,5 @@
 [**TITAN - Empresa Júnior de Engenharia da Computação da UFBA**](https://titanci.com.br)  \
 set de 2023 - o momento \
 Linguagens & Tecnologias: `JavaScript`, `Next.js` ,`TypeScript`, `Node.js`, `Prisma`, `Strapi`, `Postgresql`, `Zod`
-<br/>
-
-##
 
 <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cedraz&theme=react-dark)](https://github.com/cedraz/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/cedraz">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cedraz&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Icaro Cedraz Github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedraz&layout=compact&hide_border=true&title_color=ff6e96&text_color=ff91a4&bg_color=0d1117" />
-</div>
