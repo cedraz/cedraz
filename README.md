@@ -20,11 +20,11 @@
 
 ## Frameworks and tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,tailwind,docker,nodejs,nestjs,express,postgres,prisma,postman,vscode,git,aws,rabbitmq,redis,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,nextjs,react,materialui,tailwind,docker,nodejs,nestjs,express,postgres,mongodb,prisma,postman,vscode,git,aws,rabbitmq,redis,npm,discordjs)](https://skillicons.dev)
 
 ## Studying:
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,npm,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,golang,java,spring)](https://skillicons.dev)
 
 ## Professional Experience:
 
