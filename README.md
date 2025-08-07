@@ -3,7 +3,7 @@
 - 💻 Mid Level Backend Developer  
 - 👨‍🎓 Bachelor's Degree Candidate in Computer Engineering at UFBA  
 - ✉️ Email: icarocedraz7@gmail.com or icaro.cedraz@ufba.br  
-- 🔗 Check out my portfolio: https://cedraz.vercel.app/en
+- 🔗 Check out my portfolio: https://portfolio.cedraz.dev/en
 
 ![svg](./profile-3d-contrib/profile-night-rainbow.svg)
 
