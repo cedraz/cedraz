@@ -30,10 +30,18 @@
 
 <br/>
 
-[<img align="left" height="94px" width="95px" alt="Blue Saúde logo" style="padding-right: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBiY3OEPUglM_JlGP1Dj-2AZsKBx2ObnYWw&s"/>]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBiY3OEPUglM_JlGP1Dj-2AZsKBx2ObnYWw&s)  
+[<img align="left" height="94px" width="95px" alt="Azify logo" style="padding-right: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmn_EKdKG7n0hsb-P1g4YUqnHC8MC_B0wgA&s"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmn_EKdKG7n0hsb-P1g4YUqnHC8MC_B0wgA&s)
+**Backend Developer**  
+**Azify**  
+Sep 2025 – Present  
+Languages & Technologies: `Nest.js`, `Prisma ORM`, `Redis`, `Docker`, `RabbitMQ`, `BullMQ`, `RBAC`, `Jira`, `Fastify`, `Express`, `Baton`, `MySQL`
+
+<br/>
+
+[<img align="left" height="94px" width="95px" alt="Blue Saúde logo" style="padding-right: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBiY3OEPUglM_JlGP1Dj-2AZsKBx2ObnYWw&s"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBiY3OEPUglM_JlGP1Dj-2AZsKBx2ObnYWw&s)
 **Mid-Level Backend Developer**  
 **Blue Saúde**  
-Feb 2025 – Present  
+Feb 2025 – Oct 2025  
 Languages & Technologies: `Nest.js`, `Prisma ORM`, `PostgreSQL`, `Redis`, `Docker Swarm`, `RabbitMQ`, `BullMQ`, `Stripe`, `RBAC`, `Monday.com`
 
 <br/>
@@ -47,5 +55,5 @@ Languages & Technologies: `Nest.js`, `Prisma ORM`, `PostgreSQL`, `Redis`, `Docke
 [<img align="left" height="94px" width="95px" alt="TITAN logo" style="padding-right: 10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)  
 **Software Developer**  
 [**TITAN - Computer Engineering Junior Company at UFBA**](https://titanci.com.br)  
-September 2023 – Present  
+Sep 2023 – Jan 2026  
 Languages & Technologies: `JavaScript`, `Next.js`, `TypeScript`, `Node.js`, `Prisma`, `Strapi`, `PostgreSQL`, `Zod`
