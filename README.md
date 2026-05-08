@@ -33,7 +33,7 @@
 [<img align="left" height="94px" width="95px" alt="Azify logo" style="padding-right: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmn_EKdKG7n0hsb-P1g4YUqnHC8MC_B0wgA&s"/>](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmn_EKdKG7n0hsb-P1g4YUqnHC8MC_B0wgA&s)
 **Backend Developer**  
 **Azify**  
-Sep 2025 – Present  
+Sep 2025 – May 2026  
 Languages & Technologies: `Nest.js`, `Prisma ORM`, `Redis`, `Docker`, `RabbitMQ`, `BullMQ`, `RBAC`, `Jira`, `Fastify`, `Express`, `Baton`, `MySQL`
 
 <br/>
